@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e9f8add1-9b57-4456-aae4-00f4d1f81125" name="Default Changelist" comment="" />
+    <list default="true" id="e9f8add1-9b57-4456-aae4-00f4d1f81125" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/my-app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/src/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my-app/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,12 +41,16 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectId" id="1YdCsRqYhpLgw05HVnzh2omMcVg" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -41,5 +62,8 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
